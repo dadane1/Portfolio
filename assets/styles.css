@@ -1,0 +1,27 @@
+.image {
+    height: 200px;
+    width: 300px;
+}
+body {
+    display: flex;
+    flex-wrap: wrap;
+    background-color: burlywood;
+}
+
+.about
+    {background-color:gray
+    }   
+
+ nav {
+        display: inline;
+        background-color:rgb(207, 231, 232);
+        color: black
+    }
+
+.previous  {
+    background-color:gray
+}   
+
+.contact {
+    background-color:gray
+}
